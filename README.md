@@ -23,6 +23,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="JavaScript logo" title="Python" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=#EE4C2C" alt="JavaScript logo" title="Python" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
