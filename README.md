@@ -12,9 +12,6 @@
 - **Databases**: Mysql, Mongodb, firebase
 - **Frameworks**: Express-js, Reactjs, Pytorch
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreas230601)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/nam-nguyen17"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=andreas230601&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas230601&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
-
 
 <!-- Trungquandev -->
 <a href="#" target="_blank">
