@@ -8,6 +8,8 @@
 
 
 ### Skills
-- Programming language: Python, Javascripts
-- Databases: Mysql, Mongodb, firebase
-- Frameworks: Express-js, Reactjs, Pytorch
+- **Programming language**: Python, Javascripts
+- **Databases**: Mysql, Mongodb, firebase
+- **Frameworks**: Express-js, Reactjs, Pytorch
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreas230601)](https://github.com/anuraghazra/github-readme-stats)
