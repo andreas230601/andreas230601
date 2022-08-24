@@ -52,9 +52,6 @@
   <a href="https://www.facebook.com/profile.php?id=100077266015568" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Andreas-facebook" />
   </a>
-  <a href="https://www.researchgate.net/profile/Dao-Hoang" target="blank" style= "width: 100px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="Andreas-researchgate" />
-  </a>
   <a href="https://www.linkedin.com/in/dao-hoang-553670246/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
