@@ -7,7 +7,7 @@
 - 😄 Pronouns: Hoang
 
 
-## Skills
-#Programming language: Python, Javascripts
-#Databases: Mysql, Mongodb, firebase
-#Frameworks: Express-js, Reactjs, Pytorch
+### Skills
+- Programming language: Python, Javascripts
+- Databases: Mysql, Mongodb, firebase
+- Frameworks: Express-js, Reactjs, Pytorch
