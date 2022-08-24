@@ -5,3 +5,9 @@
 - 💬 Ask me about ...
 - 📫 You guys can find more about me at:  https://www.facebook.com/profile.php?id=100077266015568, https://www.researchgate.net/profile/Dao-Hoang, https://www.linkedin.com/in/dao-hoang-553670246/
 - 😄 Pronouns: Hoang
+
+
+## Skills
+#Programming language: Python, Javascripts
+#Databases: Mysql, Mongodb, firebase
+#Frameworks: Express-js, Reactjs, Pytorch
