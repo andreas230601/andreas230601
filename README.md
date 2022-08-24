@@ -1,16 +1,4 @@
 
-- 🔭 I’m currently final year student at Tan Tao University
-- 🌱 I have the solid foundation of python and I'm currently working on some projects using reactjs as front-end and express-js as backend.
-- 👯 However I love to do research on AI such as traditional Deeplearning, Deeplearning on Graphs, Federated Learning. I'm now learning Pytorch for further research and works.
-- 💬 Ask me about ...
-- 📫 You guys can find more about me at:  https://www.facebook.com/profile.php?id=100077266015568, https://www.researchgate.net/profile/Dao-Hoang, https://www.linkedin.com/in/dao-hoang-553670246/
-- 😄 Pronouns: Hoang
-
-
-### Skills
-- **Programming language**: Python, Javascripts
-- **Databases**: Mysql, Mongodb, firebase
-- **Frameworks**: Express-js, Reactjs, Pytorch
 
 
 <!-- Trungquandev -->
@@ -92,30 +80,16 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+- 🔭 I’m currently final year student at Tan Tao University
+- 🌱 I have the solid foundation of python and I'm currently working on some projects using reactjs as front-end and express-js as backend.
+- 👯 However I love to do research on AI such as traditional Deeplearning, Deeplearning on Graphs, Federated Learning. I'm now learning Pytorch for further research and works.
+- 💬 Ask me about ...
+- 📫 You guys can find more about me at:  https://www.facebook.com/profile.php?id=100077266015568, https://www.researchgate.net/profile/Dao-Hoang, https://www.linkedin.com/in/dao-hoang-553670246/
+- 😄 Pronouns: Hoang
 
+
+### Skills
+- **Programming language**: Python, Javascripts
+- **Databases**: Mysql, Mongodb, firebase
+- **Frameworks**: Express-js, Reactjs, Pytorch
