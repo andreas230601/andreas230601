@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**andreas230601/andreas230601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently final year student at Tan Tao University
 - 🌱 I have the solid foundation of python and I'm currently working on some projects using reactjs as front-end and express-js as backend.
